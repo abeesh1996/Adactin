@@ -38,6 +38,7 @@ public class LoginPage extends LibGlobal {
 		sendValues(userPass, text2);
 		elementClick(btnLogin);
 
+		closeWindow();
 	}
 		
 		}

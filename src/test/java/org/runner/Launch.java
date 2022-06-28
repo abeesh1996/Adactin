@@ -17,4 +17,16 @@ public class Launch extends LibGlobal{
 		
 	}
 
+	
+	
+	private void t1() {
+		System.out.println("t1");
+
+	}
+	private void t2() {
+System.out.println("t2");
+	}
+	private void t3() {
+System.out.println("t3");
+	}
 }
